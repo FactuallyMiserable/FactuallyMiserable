@@ -13,6 +13,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
