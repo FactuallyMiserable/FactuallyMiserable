@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 High school student majoring in electrical engineering and physics, with a passion for exploring innovative technologies and problem-solving.
 - 🌍 Based in Israel.
-- 🔭 Currently focused on low-level programmin and cybersecurity & research.
+- 🔭 Currently focused on low-level programming and cybersecurity & research.
 
 ## 🛠️ Skills
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
