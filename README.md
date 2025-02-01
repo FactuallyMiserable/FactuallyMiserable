@@ -24,7 +24,8 @@
   🔧 Tech Stack: Markdown.
 
 ## 📈 GitHub Stats
-![Michaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=FactuallyMiserable&show_icons=true&theme=radical)
+![Michael's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=FactuallyMiserable&show_icons=true&locale=en&layout=compact)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=FactuallyMiserable&show_icons=true&theme=radical)
 
 ## ✉️ Contact Me
 - [Email](mailto:michaelrabs+github@proton.me)
