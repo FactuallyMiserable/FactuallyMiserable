@@ -22,6 +22,9 @@
 - [**FactuallyMiserable**](https://github.com/FactuallyMiserable/FactuallyMiserable)  
   📜 My first reposity is about me.  
   🔧 Tech Stack: Markdown.
+- [**SmartAC**](https://github.com/FactuallyMiserable/SmartAC)  
+  📜 Smart AC project.  
+  🔧 Tech Stack: Arduino.
 
 ## 📈 GitHub Stats
 ![Michael's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=FactuallyMiserable&show_icons=true&locale=en&layout=compact)
